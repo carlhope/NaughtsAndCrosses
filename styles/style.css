@@ -1,0 +1,27 @@
+.board-box {
+  font-size: 48px;
+  background-color: red;
+  
+}
+#message{
+  font-size: 24px;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+body{
+  background-color: chartreuse;
+}
+.overlay{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  z-index: 9999;
+  display: none;
+
+}
